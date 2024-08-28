@@ -69,7 +69,7 @@ Data_des = st.Page(
 )
 
 Visualization = st.Page(
-    page = 'views/Visualization.py',
+    page = 'views/visualization.py',
     title = "Visualization",
     icon = ":material/monitoring:",
 )
