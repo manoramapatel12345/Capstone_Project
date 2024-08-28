@@ -1,0 +1,11 @@
+numpy
+pandas
+plotly
+Requests
+scikit_learn==1.3.2
+streamlit
+streamlit_extras
+streamlit_lottie
+streamlit_option_menu
+xgboost
+python-dotenv
