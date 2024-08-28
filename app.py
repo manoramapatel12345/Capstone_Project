@@ -56,26 +56,26 @@ st.markdown(
 # ---
 
 project = st.Page(
-    page = 'views\prediction.py',
+    page = 'views/prediction.py',
     title = "Model Prediction",
     icon = ":material/smart_toy:",
     # default = True
 )
 
 Data_des = st.Page(
-    page = 'views\data_info.py',
+    page = 'views/data_info.py',
     title = "Data info",
     icon = ":material/account_circle:",
 )
 
 Visualization = st.Page(
-    page = 'views\Visualization.py',
+    page = 'views/visualization.py',
     title = "Visualization",
     icon = ":material/monitoring:",
 )
 
 about_me = st.Page(
-    page = 'views\my_info.py',
+    page = 'views/my_info.py',
     title = "About me",
     icon = ":material/person:",
 )
