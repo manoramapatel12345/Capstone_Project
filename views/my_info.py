@@ -27,7 +27,7 @@ def my_page():
     col1, col2 = st.columns(2, gap = "small", vertical_alignment="center")
 
     with col1:
-        st.image("assets\profile_pic.png", width=250)
+        st.image("assets/profile_pic.png", width=250)
     with col2:
         st.title("Manorama Patel", anchor=False)
         st.write(
