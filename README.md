@@ -48,7 +48,7 @@ Navigate through the app seamlessly using the sidebar. Choose from different sec
 
 The application is deployed on Render, ensuring a smooth and reliable user experience. Click the link above to explore the live demo!
 
-[![Screenshot-2024-08-29-214611.png](https://i.postimg.cc/hv5P1MX6/Screenshot-2024-08-29-214611.png)](https://postimg.cc/YLQHp6fz)
+![Screenshot-2024-08-29-214611.png](https://github.com/manoramapatel12345/Capstone_Project/blob/main/assets/Screenshot%202024-08-29%20214611.png)
 
 # Setting Up Locally 📲
 
